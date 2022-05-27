@@ -1,0 +1,57 @@
+,paper_name,ligand_name,pdb_id,type,pdb_filename,ligand_resn,SMILES,systematic_name,chembl_id,formal_charge
+0,F11A,NCL-00023833,5RJJ,hit,5rjj.pdb,HH8,Brc1ccnc2ncccc12,"4-bromanyl-1,8-naphthyridine",,0
+1,F11B,NCL-00023833,5RJJ,hit,5rjj.pdb,HH8,Brc1ccnc2ncccc12,"4-bromanyl-1,8-naphthyridine",,0
+2,F1,NCL-00024661,5RJK,hit,5rjk.pdb,UUJ,Oc1ccc(Br)cc1C#N,5-bromo-2-hydroxybenzonitrile,,0
+3,F6,NCL-00024662,5RJL,hit,5rjl.pdb,UUG,COc1cc(Br)ccc1CO,(4-bromo-2-methoxyphenyl)methanol,,0
+4,F12,NCL-00024671,5RJM,hit,5rjm.pdb,UU1,OCCn1cc(Br)cn1,2-(4-bromo-1H-pyrazol-1-yl)ethan-1-ol,,0
+5,F14,NCL-00024673,5RJN,hit,5rjn.pdb,UUV,COCCn1cc(Br)cn1,4-bromo-1-(2-methoxyethyl)-1H-pyrazole,,0
+6,F760,NCL-00023827,5RJO,hit,5rjo.pdb,1P8,Brc1ccc2CC(=O)Nc2c1,"6-bromo-1,3-dihydro-2H-indol-2-one",,0
+7,F762,NCL-00024672,5RJP,hit,5rjp.pdb,UUS,OCCN1C=CC(=CC1=O)Br,4-bromo-1-(2-hydroxyethyl)pyridin-2(1H)-one,,0
+8,F5A,NCL-00024665,5RJQ,hit,5rjq.pdb,HHT,COc1cc(Br)ccc1CC(O)=O,2-(4-bromanyl-2-methoxy-phenyl)ethanoic acid,,0
+9,F5B,NCL-00024665,5RJQ,hit,5rjq.pdb,HHT,COc1cc(Br)ccc1CC(O)=O,2-(4-bromanyl-2-methoxy-phenyl)ethanoic acid,,0
+10,F616,Z45705015,5RJR,hit,5rjr.pdb,S9S,C[S](=O)(=O)NCCc1ccc(F)cc1,~{N}-[2-(4-fluorophenyl)ethyl]methanesulfonamide,,0
+11,F741,Z285642082,5RJS,hit,5rjs.pdb,UUP,O=C(NC1CC1)c2cnn3cccnc23,"N-cyclopropylpyrazolo[1,5-a]pyrimidine-3-carboxamide",,0
+12,F199,Z404993336,5RJT,hit,5rjt.pdb,UUM,Cn1cc(NC(=O)c2cc(C)on2)cn1,"5-methyl-N-(1-methyl-1H-pyrazol-4-yl)-1,2-oxazole-3-carboxamide",,0
+13,F728,Z57261895,5RJU,hit,5rju.pdb,O2D,O=C(CC1CCCCC1)Nn2cnnc2,"2-cyclohexyl-N-(4H-1,2,4-triazol-4-yl)acetamide",,0
+14,F558,Z57190020,5RJV,hit,5rjv.pdb,UVD,COC(=O)Nc1ccc(Cc2ccncc2)cc1,methyl {4-[(pyridin-4-yl)methyl]phenyl}carbamate,,0
+15,F309,Z256709556,5RJW,hit,5rjw.pdb,60P,Cc1ccsc1C(O)=O,3-methylthiophene-2-carboxylic acid,,0
+16,F529,Z285782452,5RJX,hit,5rjx.pdb,UVA,CNc1ccccc1[S](C)(=O)=O,N-methyl-2-(methylsulfonyl)aniline,,0
+17,F96,Z383325512,5RJY,hit,5rjy.pdb,UV7,CC(=O)NCc1c[nH]nc1,N-[(1H-pyrazol-4-yl)methyl]acetamide,,0
+18,F374,Z755044716,5RJZ,hit,5rjz.pdb,K0J,CCNC(=O)c1c[nH]nn1,"N-ethyl-1H-1,2,3-triazole-4-carboxamide",,0
+19,F95,Z30932204,5RK0,hit,5rk0.pdb,T0S,CC(=O)NCc1ccc(cc1)[S](N)(=O)=O,N-[(4-sulfamoylphenyl)methyl]acetamide,,0
+20,F584,Z1507502062,5RK1,hit,5rk1.pdb,UV1,COc1cccc2NC(=O)CCCc12,"6-methoxy-1,3,4,5-tetrahydro-2H-1-benzazepin-2-one",,0
+21,F195,Z54633859,5RK2,hit,5rk2.pdb,UUY,CN(CCO)c1ccccn1,2-[methyl(pyridin-2-yl)amino]ethan-1-ol,,0
+22,F205,Z1501469697,5RK3,hit,5rk3.pdb,UVV,CN1C(=CC=C(N)C1=O)C,"3-amino-1,6-dimethylpyridin-2(1H)-one",,0
+23,F362,Z56791867,5RK4,hit,5rk4.pdb,K1S,CCN(CC)c1cc(C)nc2ncnn12,"N,N-diethyl-5-methyl[1,2,4]triazolo[1,5-a]pyrimidin-7-amine",,0
+24,F600,Z57478994,5RK5,hit,5rk5.pdb,UVS,COCc1sc(N)nn1,"5-(methoxymethyl)-1,3,4-thiadiazol-2-amine",,0
+25,F710,Z198194394,5RK6,hit,5rk6.pdb,O1M,NC(=O)N1CCN(CC1)c2ccc(F)cc2,4-(4-fluorophenyl)piperazine-1-carboxamide,,0
+26,F393,Z31721097,5RK7,hit,5rk7.pdb,UVM,CCOC(=O)N1CCOCC1,ethyl morpholine-4-carboxylate,,0
+27,F217,Z53116498,5RK8,hit,5rk8.pdb,UVJ,Cc1nc2ccccc2n1CCC(N)=O,3-(2-methyl-1H-benzimidazol-1-yl)propanamide,,0
+28,F421,Z461898648,5RK9,hit,5rk9.pdb,UVG,CN(C)C(=O)c1c[nH]nc1,"N,N-dimethyl-1H-pyrazole-4-carboxamide",,0
+29,F603,Z126932614,5RKA,hit,5rka.pdb,T6J,C[S](=O)(=O)Cc1[nH]c2ccccc2n1,2-[(methylsulfonyl)methyl]-1H-benzimidazole,,0
+30,F179,Z2004563941,5RKB,hit,5rkb.pdb,UWG,C[C@H](O)c1cnn(c1)C2CCCC2,(1S)-1-(1-cyclopentyl-1H-pyrazol-4-yl)ethan-1-ol,,0
+31,F170,Z234898257,5RKC,hit,5rkc.pdb,UWD,CNCc1nnc2ccccn12,"N-methyl-1-([1,2,4]triazolo[4,3-a]pyridin-3-yl)methanamine",,0
+32,F501,Z2168282707,5RKD,hit,5rkd.pdb,UW7,Cn1nnc2CC[C@@H](Cc12)C(O)=O,"(6S)-1-methyl-4,5,6,7-tetrahydro-1H-benzotriazole-6-carboxylic acid",,0
+33,F126,Z906021418,5RKE,hit,5rke.pdb,K2G,CC(C)c1ncc(Cl)c(n1)C(N)=O,5-chloro-2-(propan-2-yl)pyrimidine-4-carboxamide,,0
+34,F366,Z1674937530,5RKF,hit,5rkf.pdb,UVY,CCn1cc(CCO)cn1,2-(1-ethyl-1H-pyrazol-4-yl)ethan-1-ol,,0
+35,F389,Z1124201124,5RKG,hit,5rkg.pdb,GOJ,CCOC(=O)c1c[nH]nc1,ethyl 1~{H}-pyrazole-4-carboxylate,,0
+36,F488,Z31432917,5RKH,hit,5rkh.pdb,LPZ,C[NH+]1CCN(CC1)C(=O)COc2ccc(C)cc2,2-(4-methylphenoxy)-1-(4-methylpiperazin-4-ium-1-yl)ethanone,,1
+37,F709,Z198194396,5RKI,hit,5rki.pdb,K2M,NC(=O)N1CCN(CC1)C(=O)c2occc2,4-(furan-2-carbonyl)piperazine-1-carboxamide,,0
+38,F369,Z373768898,5RKJ,hit,5rkj.pdb,UWY,CCn1cc(NC(=O)C2CCCC2)cn1,N-(1-ethyl-1H-pyrazol-4-yl)cyclopentanecarboxamide,,0
+39,F367,Z275181224,5RKK,hit,5rkk.pdb,K0P,CCn1cc(CNC(=O)c2cccnc2)cn1,N-[(1-ethyl-1H-pyrazol-4-yl)methyl]pyridine-3-carboxamide,,0
+40,F687,Z1545196403,5RKL,hit,5rkl.pdb,UWV,Fc1ccccc1NCc2cc[nH]n2,2-fluoro-N-[(1H-pyrazol-3-yl)methyl]aniline,,0
+41,F455,Z2017168803,5RKM,hit,5rkm.pdb,O0V,C[C@@H](CO)N(C)c1ncccc1F,(2S)-2-[(3-fluoropyridin-2-yl)(methyl)amino]propan-1-ol,,0
+42,F368,Z373768900,5RKN,hit,5rkn.pdb,NUA,CCn1cc(NC(=O)C2CCC2)cn1,N-(1-ethyl-1H-pyrazol-4-yl)cyclobutanecarboxamide,,0
+43,F666,Z30620520,5RKO,hit,5rko.pdb,GX4,Fc1ccc(cc1)N2CCN(CC2)C(=O)C3CC3,cyclopropyl-[4-(4-fluorophenyl)piperazin-1-yl]methanone,,0
+44,F274,Z1079512010,5RKP,hit,5rkp.pdb,UWS,CC1=NN(Cc2onc(C)c2)C(=O)C=C1,"6-methyl-2-[(3-methyl-1,2-oxazol-5-yl)methyl]pyridazin-3(2H)-one",,0
+45,F229,Z1545196101,5RKQ,hit,5rkq.pdb,UXJ,Cc1n[nH]cc1CNc2ccccc2F,2-fluoro-N-[(3-methyl-1H-pyrazol-4-yl)methyl]aniline,,0
+46,F619,Z1432018343,5RKR,hit,5rkr.pdb,O0G,C[C@@H](CO)Nc1ncc(Cl)cc1F,(2S)-2-[(5-chloro-3-fluoropyridin-2-yl)amino]propan-1-ol,,0
+47,F780,Z1696844792,5RKS,hit,5rks.pdb,UXG,OC1CN(C1)C(c2ccccc2)c3ccccc3,1-(diphenylmethyl)azetidin-3-ol,,0
+48,F650,Z1266933824,5RKT,hit,5rkt.pdb,UXD,O=C(N1CCCC1)c2c[nH]nc2,(1H-pyrazol-4-yl)(pyrrolidin-1-yl)methanone,,0
+49,F740,Z32367954,5RKU,hit,5rku.pdb,UXA,O=C(NC1CC1)c2ccc3OCOc3c2,"N-cyclopropyl-2H-1,3-benzodioxole-5-carboxamide",,0
+50,F400A,Z56877838,5RKV,hit,5rkv.pdb,YI6,CCOc1ccc(CC(O)=O)cc1,2-(4-ethoxyphenyl)ethanoic acid,,0
+51,F400B,Z56877838,5RKV,hit,5rkv.pdb,YI6,CCOc1ccc(CC(O)=O)cc1,2-(4-ethoxyphenyl)ethanoic acid,,0
+52,F579,Z27678561,5RKW,hit,5rkw.pdb,UX7,COc1ccc2nc(NC(=O)C3CC3)sc2c1,"N-(6-methoxy-1,3-benzothiazol-2-yl)cyclopropanecarboxamide",,0
+53,F275A,Z1324080698,5RKX,hit,5rkx.pdb,UR1,Cc1cc(F)cc(c1)[S](N)(=O)=O,3-fluoro-5-methylbenzene-1-sulfonamide,,0
+54,F275B,Z1324080698,5RKX,hit,5rkx.pdb,UR1,Cc1cc(F)cc(c1)[S](N)(=O)=O,3-fluoro-5-methylbenzene-1-sulfonamide,,0
+55,F503,Z1796014543,5RKY,hit,5rky.pdb,UX1,CNC(=O)C1(CC1)Cc2ccccc2F,1-[(2-fluorophenyl)methyl]-N-methylcyclopropane-1-carboxamide,,0
