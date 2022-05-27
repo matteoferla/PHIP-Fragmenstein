@@ -71,3 +71,19 @@ The top purchasable similars (sorted by LE):
 | Z1508100090     | COC1=CC=CC2=C1CCCN(C3=NC=CC=C3Cl)C2     | ['F584', 'F687']           | expansion |  -9.2 |         -9.4 |       0.8 |                    22 |                       0 |      78.2 | -0.4 |         -9.4 |
 | PV-002408545860 | COC1=CC=CC2=C1CCCC(NC3=CC=CC4=C3OCO4)C2 | ['F584', 'F740']           | expansion | -10.4 |        -11   |       0.8 |                    25 |                       0 |      79   | -0.4 |        -11   |
 | Z1510695261     | COC1=CC=CC2=C1CCCCN2C(=O)C3=CC=CO3      | ['F584', 'F650']           | expansion |  -9.9 |         -9.6 |       0.9 |                    23 |                       1 |      77.3 | -0.4 |         -9.6 |
+
+The top hit looks nice:
+![img.png](images/Z1510692716.png)
+![img.png](data/Z1510689969.png)
+![img.png](data/Z2850911440.png)
+
+Most of the purchaseable are kinked-favonoid–look-alikes (I have not tried a flavonoid as the angles would not work,
+as the middle ring is a 7-membered lactam not a pyrone).
+
+![img.png](data/top20.png)
+
+Two differ from this:
+
+![img_1.png](data/odd.png)
+
+Z3192066843 has a sticky-out sulfamine and PV-002408545860 has a benzofuzan-like ring as the extra.
