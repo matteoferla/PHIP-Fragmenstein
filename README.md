@@ -19,7 +19,7 @@ The latter was run with the default settings, namely:
 * pairwise
 * Top 10 combinations, searched for purchasables and placed
 * LE filtering
-* `percent_hybrid` left at 30% (i.e. in 10 atom merger, the 7 or less atoms come from the primary hit,while 3 or more atoms come from the secondary hit)
+* `percent_hybrid` left at 30% (i.e. in 10 atom merger, the 7 or fewer atoms come from the primary hit,while 3 or more atoms come from the secondary hit)
 * standard RMSD < 1. &Aring;
 * 'Quick reanimation' (stops trying to minimise hard cases as they would be discarded anyway)
 
