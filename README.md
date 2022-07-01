@@ -7,6 +7,29 @@ The SAMPL challenge is described in https://link.springer.com/article/10.1007/s1
 
 The PDB deposition group is `G_1002162`.
 
+## Data
+
+| Filename | Date modified | Molecules | Median MW | Description                                                          |
+| -------- | -------- | -------- | -------- |----------------------------------------------------------------------|
+| [hits.sdf](data/hits.sdf) | 2022-06-29 13:13:24.913366  | 56 | 204 | The template aligned hits from the deposition group                  |
+| [combinations.sdf](data/combinations.sdf) | 2022-05-27 15:01:13.469336  | 3074 | 219 | All the pairwise combinations from Fragmenstein (inc. janky ones)    |
+| [placements.sdf](data/placements.sdf) | 2022-05-27 15:02:24.461896  | 90 | 227 | Placed analogues from SmallWorld of the combintions (ref. data lost) |
+| [LE_best_combinations.sdf](data/LE_best_combinations.sdf) | 2022-05-27 15:01:36.528786  | 10 | 227 | Only the top 10 from the above                                       |
+| [LE_best_placements.sdf](data/LE_best_placements.sdf) | 2022-05-27 15:02:11.618702  | 10 | 232 | Only the top 10 from the above                                       |
+| [F584_placements.sdf](data/F584_placements.sdf) | 2022-05-27 16:42:20.575919  | 335 | 297 | All the placements from the above which include F584                 |
+| [F584_best_placements.sdf](data/F584_best_placements.sdf) | 2022-05-27 16:42:37.344729  | 20 | 286 | Top 20 of the above                                                  |
+| [F584-F616_placements.sdf](data/F584-F616_placements.sdf) | 2022-06-10 12:06:51.286664  | 8 | 289 | Placements of analogues of the combination of the two named hits |
+| [F584-F687_placements.sdf](data/F584-F687_placements.sdf) | 2022-06-10 12:06:52.844204  | 10 | 289 | Placements of analogues of the combination of the two named hits |
+| [F558-F584_placements.sdf](data/F558-F584_placements.sdf) | 2022-06-10 12:06:55.405324  | 10 | 289 | Placements of analogues of the combination of the two named hits |
+| [F584-F709_placements.sdf](data/F584-F709_placements.sdf) | 2022-06-10 12:06:58.062950  | 9 | 289 | Placements of analogues of the combination of the two named hits |
+| [F199-F584_placements.sdf](data/F199-F584_placements.sdf) | 2022-06-10 12:07:00.267817  | 10 | 289 | Placements of analogues of the combination of the two named hits |
+| [F217-F584_placements.sdf](data/F217-F584_placements.sdf) | 2022-06-10 12:07:02.777390  | 11 | 289 | Placements of analogues of the combination of the two named hits |
+| [F368-F584_placements.sdf](data/F368-F584_placements.sdf) | 2022-06-10 12:07:06.815200  | 17 | 289 | Placements of analogues of the combination of the two named hits |
+| [F170-F584_placements.sdf](data/F170-F584_placements.sdf) | 2022-06-10 12:07:08.724130  | 9 | 289 | Placements of analogues of the combination of the two named hits |
+| [F126-F584_placements.sdf](data/F126-F584_placements.sdf) | 2022-06-10 12:07:11.706223  | 10 | 289 | Placements of analogues of the combination of the two named hits |
+| [triple_F584_combinations.sdf](data/triple_F584_combinations.sdf) | 2022-06-10 12:33:06.907028  | 1115 | 357 | Three way combinations of F584 an another two hits |
+
+
 ## Results
 
 Two notebooks are presented here:
